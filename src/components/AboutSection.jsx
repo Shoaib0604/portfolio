@@ -32,7 +32,7 @@ export const AboutSection = () => {
                 Get In Touch
               </a>
               <a
-                href="/cv_shoaib.pdf"
+                href="/cv_shoaib0.pdf"
                 download
                 target="_blank"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
